@@ -30,7 +30,7 @@
       <td>German</td>
     </tr>
     <tr>
-      <td><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_Kingdom.svg" height="20"/></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" height="20"/></td>
       <td>English</td>
     </tr>
   </table>
