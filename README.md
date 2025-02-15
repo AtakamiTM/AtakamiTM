@@ -9,15 +9,33 @@
 <h2 align="center">I am 20 years old, and I have a deep passion for programming.</h2>
 <h2 align="center">I Speak:</h2>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="20"/> Polish
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" height="20"/> Russian
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="20"/> German
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_Kingdom.svg" height="20"/> English
-</p>
+<h2 align="center">Languages I Speak:</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Flag</th>
+      <th>Language</th>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="20"/></td>
+      <td>Polish</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" height="20"/></td>
+      <td>Russian</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="20"/></td>
+      <td>German</td>
+    </tr>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_Kingdom.svg" height="20"/></td>
+      <td>English</td>
+    </tr>
+  </table>
+</div>
+
 
 
 <div align="center">
