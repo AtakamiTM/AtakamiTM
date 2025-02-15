@@ -8,6 +8,11 @@
 
 <h2 align="center">I am 20 years old, and I have a deep passion for programming.</h2>
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtakamiTM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 <h2 align="center">Developer:</h2>
 
 ###
