@@ -7,6 +7,14 @@
 ###
 
 <h2 align="center">I am 20 years old, and I have a deep passion for programming.</h2>
+<h2 align="center">Languages I Speak:</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Polish-%23ffffff.svg?style=for-the-badge&logo=poland&logoColor=red" />
+  <img src="https://img.shields.io/badge/Russian-%230066CC.svg?style=for-the-badge&logo=russia&logoColor=white" />
+  <img src="https://img.shields.io/badge/German-%23000000.svg?style=for-the-badge&logo=germany&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/English-%230075C6.svg?style=for-the-badge&logo=united-kingdom&logoColor=white" />
+</p>
 
 
 <div align="center">
