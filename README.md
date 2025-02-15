@@ -97,3 +97,32 @@
 <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
 <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+
+## My Games
+
+<table border="1px solid black" style="margin: 5px">
+<tr>
+<td><b style="font-size:30px">Game</b></td>
+<td><b style="font-size:30px">Badge</b></td>
+</tr>
+<tr>
+<td>Valorant</td>
+<td><img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" /></td>
+</tr>
+<tr>
+<td>Counter-Strike 2</td>
+<td><img src="https://img.shields.io/badge/Counter%20Strike%202-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /></td>
+</tr>
+<tr>
+<td>Minecraft</td>
+<td><img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" /></td>
+</tr>
+<tr>
+<td>Terraria</td>
+<td><img src="https://img.shields.io/badge/Terraria-4E7B38?style=for-the-badge&logo=terraria&logoColor=white" /></td>
+</tr>
+<tr>
+<td>The Witcher 3</td>
+<td><img src="https://img.shields.io/badge/The%20Witcher%203-A70B06?style=for-the-badge&logo=thewitcher&logoColor=white" /></td>
+</tr>
+</table>
