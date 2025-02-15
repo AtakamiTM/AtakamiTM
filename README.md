@@ -7,7 +7,7 @@
 ###
 
 <h2 align="center">I am 20 years old, and I have a deep passion for programming.</h2>
-<h2 align="center">Languages I Speak:</h2>
+<h2 align="center">I Speak:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Polish-%23ffffff.svg?style=for-the-badge&logo=poland&logoColor=red" />
