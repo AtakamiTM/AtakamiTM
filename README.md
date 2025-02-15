@@ -12,33 +12,41 @@
     </tr>
     <tr>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" 
-             style="height: 20px; width: auto;" 
-             alt="Polish flag" />
+        <img 
+          src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" 
+          alt="Polish flag" 
+          style="width: 40px; height: 25px; object-fit: cover; object-position: center;"
+        />
       </td>
       <td>Polish</td>
     </tr>
     <tr>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" 
-             style="height: 20px; width: auto;" 
-             alt="Russian flag" />
+        <img 
+          src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" 
+          alt="Russian flag"
+          style="width: 40px; height: 25px; object-fit: cover; object-position: center;"
+        />
       </td>
       <td>Russian</td>
     </tr>
     <tr>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" 
-             style="height: 20px; width: auto;" 
-             alt="German flag" />
+        <img 
+          src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" 
+          alt="German flag"
+          style="width: 40px; height: 25px; object-fit: cover; object-position: center;"
+        />
       </td>
       <td>German</td>
     </tr>
     <tr>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" 
-             style="height: 20px; width: auto;" 
-             alt="English flag" />
+        <img 
+          src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" 
+          alt="English flag"
+          style="width: 40px; height: 25px; object-fit: cover; object-position: center;"
+        />
       </td>
       <td>English</td>
     </tr>
