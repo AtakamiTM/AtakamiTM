@@ -13,7 +13,7 @@
     <tr>
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" 
-             style="height: 25px; width: auto;" 
+             style="height: 20px; width: auto;" 
              alt="Polish flag" />
       </td>
       <td>Polish</td>
@@ -21,7 +21,7 @@
     <tr>
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" 
-             style="height: 25px; width: auto;" 
+             style="height: 20px; width: auto;" 
              alt="Russian flag" />
       </td>
       <td>Russian</td>
@@ -29,7 +29,7 @@
     <tr>
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" 
-             style="height: 25px; width: auto;" 
+             style="height: 20px; width: auto;" 
              alt="German flag" />
       </td>
       <td>German</td>
@@ -37,7 +37,7 @@
     <tr>
       <td>
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2560px-Flag_of_the_United_Kingdom.svg.png" 
-             style="height: 25px; width: auto;" 
+             style="height: 20px; width: auto;" 
              alt="English flag" />
       </td>
       <td>English</td>
