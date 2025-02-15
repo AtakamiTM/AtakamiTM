@@ -87,6 +87,7 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 
 <h2 align="center">My Games</h2>
+<p align="center">
 <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
 <img src="https://img.shields.io/badge/Counter%20Strike%202-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
 <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
