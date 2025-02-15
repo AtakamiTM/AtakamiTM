@@ -10,10 +10,13 @@
 <h2 align="center">I Speak:</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Polish-%23ffffff.svg?style=for-the-badge&logo=poland&logoColor=red" />
-  <img src="https://img.shields.io/badge/Russian-%230066CC.svg?style=for-the-badge&logo=russia&logoColor=white" />
-  <img src="https://img.shields.io/badge/German-%23000000.svg?style=for-the-badge&logo=germany&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/English-%230075C6.svg?style=for-the-badge&logo=united-kingdom&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="20"/> Polish
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg" height="20"/> Russian
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" height="20"/> German
+  <br>
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_Kingdom.svg" height="20"/> English
 </p>
 
 
