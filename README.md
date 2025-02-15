@@ -38,8 +38,6 @@
 
 <h2 align="center">Developer:</h2>
 
-###
-
 <div align="center">
 
 <table border="1px solid black" style="margin: 5px">
