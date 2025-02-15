@@ -1,10 +1,6 @@
 <img align="right" height="100" src="https://i.ibb.co/Xk5nqPfc/Pasted-20240916-184059-preview-r.png"  />
 
-###
-
 <h1 align="center">Hi 👋! My name is Kamil</h1>
-
-###
 
 <h2 align="center">I am 20 years old, and I have a deep passion for programming.</h2>
 <h2 align="center">I Speak:</h2>
@@ -90,8 +86,6 @@
 
 <h2 align="center">Social Media:</h2>
 
-###
-
 <div align="center">
   <a href="https://www.youtube.com/@PanNome" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -103,8 +97,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
 
 <h2 align="center">My down time:</h2>
 
