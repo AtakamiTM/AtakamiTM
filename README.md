@@ -1,7 +1,7 @@
 <img align="right" height="100" src="https://i.ibb.co/Xk5nqPfc/Pasted-20240916-184059-preview-r.png" />
 
 <h1 align="center">Hi 👋! My name is Kamil</h1>
-<h2 align="center">I am 20 years old, and I have a deep passion for programming.</h2>
+<h2 align="center">I am 22 years old, and I have a deep passion for programming.</h2>
 
 <h3 align="center">Technologies & Skills</h3>
 <div align="center">
