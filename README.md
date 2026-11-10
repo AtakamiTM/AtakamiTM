@@ -1,4 +1,4 @@
-<img align="right" height="100" src="https://i.ibb.co/Xk5nqPfc/Pasted-20240916-184059-preview-r.png" alt="Avatar" />
+<img align="right" width="120" height="120" src="https://github.com/AtakamiTM.png?size=240" alt="Kamil's avatar" />
 
 # Hi, I'm Kamil 👋
 
