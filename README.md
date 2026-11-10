@@ -1,78 +1,60 @@
-<img align="right" height="100" src="https://i.ibb.co/Xk5nqPfc/Pasted-20240916-184059-preview-r.png" />
+<img align="right" height="100" src="https://i.ibb.co/Xk5nqPfc/Pasted-20240916-184059-preview-r.png" alt="Avatar" />
 
-<h1 align="center">Hi 👋! My name is Kamil</h1>
-<h2 align="center">I am 22 years old, and I have a deep passion for programming.</h2>
+# Hi, I'm Kamil 👋
 
-<h3 align="center">Technologies & Skills</h3>
-<div align="center">
-  <table border="1px solid black" style="margin: 5px; width: 80%">
-    <tr>
-      <td><b style="font-size:20px">Programming Languages</b></td>
-      <td><b style="font-size:20px">Frameworks & Libraries</b></td>
-      <td><b style="font-size:20px">Tools & Technologies</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="Lua logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ logo" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap logo" />
-      </td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva logo" />
-      </td>
-    </tr>
-  </table>
-</div>
+**Software developer with a deep passion for programming.**
+I enjoy building things, learning new technologies and turning ideas into working projects.
 
-<h3 align="center">Follow Me</h3>
-<div align="center">
-  <a href="https://www.youtube.com/@PanNome" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube logo" />
-  </a>
-  <a href="https://www.twitch.tv/pan_nome" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitch logo" />
-  </a>
-  <a href="pannome" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-  </a>
-</div>
+<br />
 
-<h3 align="center">My Downtime</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-</div>
+## 🛠️ Tech Stack
 
-<h3 align="center">My Games</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Counter%20Strike%202-000000?style=for-the-badge&logo=counter-strike&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraria-4E7B38?style=for-the-badge&logo=terraria&logoColor=white" />
-  <img src="https://img.shields.io/badge/The%20Witcher%203-A70B06?style=for-the-badge&logo=thewitcher&logoColor=white" />
-</div>
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+<br />
+
+## 🌐 Find Me Online
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PanNome)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/pan_nome)
+![Discord](https://img.shields.io/badge/Discord-pannome-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+<br />
+
+## 🎮 Beyond Code
+
+**Entertainment**
+
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)
+![Amazon Prime](https://img.shields.io/badge/Prime%20Video-00A8E1?style=flat-square&logo=primevideo&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
+
+**Favorite games**
+
+![Valorant](https://img.shields.io/badge/Valorant-FF4655?style=flat-square&logo=valorant&logoColor=white)
+![Counter-Strike 2](https://img.shields.io/badge/Counter--Strike%202-000000?style=flat-square&logo=counterstrike&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=minecraft&logoColor=white)
+![Terraria](https://img.shields.io/badge/Terraria-4E7B38?style=flat-square&logo=terraria&logoColor=white)
+![The Witcher 3](https://img.shields.io/badge/The%20Witcher%203-A70B06?style=flat-square&logo=thewitcher&logoColor=white)
